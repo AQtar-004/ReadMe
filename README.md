@@ -1,6 +1,6 @@
-# Mohammadaktar
+# Mohammad Aktar
 
-# 👋 Hi, I'm Aqtar!  
+# 👋 Hi, I'm Aktar!  
 🚀 DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Automation Enthusiast  
 
 🔹 Passionate about infrastructure automation, cloud computing, and scalable deployments.  
