@@ -28,4 +28,4 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad_aqtar)
 
 ## 📊 GitHub Stats  
-![Aqtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadaqtar&show_icons=true&theme=radical)  
+![Aqtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AQtar-004&show_icons=true&theme=radical)  
