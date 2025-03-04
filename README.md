@@ -17,7 +17,9 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)  
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)  
-![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white)  
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=flat&logo=ansible&logoColor=white) 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-aq%CC%80tar-539937304/)
