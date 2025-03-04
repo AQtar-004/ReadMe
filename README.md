@@ -26,6 +26,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/muhammadaqtar)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/9346803480?text=Hello%20there!)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/muhammad_aqtar)
+[![Naukri](https://img.shields.io/badge/Naukri-0056D2?style=flat&logoColor=white)](https://www.naukri.com/mnjuser/profile?id=&altresid)
+
 
 ## 📊 GitHub Stats  
 ![Aqtar's GitHub stats](https://github-readme-stats.vercel.app/api?username=AQtar-004&show_icons=true&theme=radical)  
