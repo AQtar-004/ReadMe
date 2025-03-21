@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Aktar!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=DevOps+Engineer;Cloud+Automation;AWS+Expert;Terraform+Specialist;Kubernetes+Administrator)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=1000&lines=DevOps+Engineer%7CCloud+Automation%7CAWS%7CTerraform%7CKubernetes)](https://git.io/typing-svg)
 
 🚀 **DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Automation Enthusiast | Historian | Esports-Enthusiast**
 
