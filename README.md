@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Mohammad Aktar!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=1000&lines=DevOps+Engineer%7CCloud+Automation%7CAWS%7CTerraform%7CKubernetes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=1000&lines=🚀+DevOps+Engineer+%7C+AWS+%7C+Terraform+%7C+Kubernetes+%7C+CI/CD+%7C+Automation+Enthusiast+%7C+Historian+%7C+Esports-Enthusiast)](https://git.io/typing-svg)
 
-🚀 **DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Automation Enthusiast | Historian | Esports-Enthusiast**
 
 ## 🛠 About Me  
 👉 *"I am a DevOps Engineer passionate about automating processes, improving deployments, and making systems more reliable. I work with tools like Terraform, Ansible, Docker, Kubernetes, and AWS to streamline workflows and optimize infrastructure. My goal is to help teams deliver software faster and more efficiently."*
