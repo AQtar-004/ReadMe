@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Mohammad Aqtar!  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=DevOps+Engineer;Cloud+Automation;AWS+Expert;Terraform+Specialist;Kubernetes+Administrator)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=DevOps+Engineer;AWS;Ansible;Terraform;CI/CD-Jenkins Autmoation;Docker;Kubernetes)](https://git.io/typing-svg)  
 
 
 
