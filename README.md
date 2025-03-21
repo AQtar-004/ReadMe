@@ -57,4 +57,4 @@
 </p>
 
 ## 🏰 Fun Fact  
-💬 *"By day, I build and automate cloud infrastructure ☁️, by night, I strategize my next esports victory! 🎮🔥"*
+💬 *"By day, I build and automate cloud infrastructure ☁️, by night,"I explore the depths of history and dive into strategic esports battles!" 🎮🔥"*
