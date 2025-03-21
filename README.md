@@ -26,6 +26,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+
 ## 📂 GitHub Projects  
 🌟 **Featured Repositories:**  
 - [🔹 Terraform AWS Infrastructure]((https://github.com/AQtar-004/Beginner-Terraform-Managed-Infrastructure-AWS-EC2.git)) – _(Automated AWS setup using Terraform)_  
@@ -34,9 +35,6 @@
 
 
 🚀 Explore more in my [GitHub Repositories](https://github.com/AQtar-004).
-
-
-
 
 
 
