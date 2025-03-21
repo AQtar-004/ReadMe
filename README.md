@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=1000&lines=DevOps+Engineer%7C+AWS%7C+Terraform%7C+Kubernetes%7C+CI%2FCD%7C+Jenkins&background=FFFFFF00)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=1000&lines=HistorianandEsports-Enthusiast&background=FFFFFF00)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=1000&lines=Historian+Esports-Enthusiast&background=FFFFFF00)
 
 ## 🛠 About Me  
 👉 *"I am a DevOps Engineer passionate about automating processes, improving deployments, and making systems more reliable. I work with tools like Terraform, Ansible, Docker, Kubernetes, and AWS to streamline workflows and optimize infrastructure. My goal is to help teams deliver software faster and more efficiently."*
