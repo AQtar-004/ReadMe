@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Aqtar!  
+# 👋 Hi, I'm Mohammad Aktar!  
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=000000&width=1000&lines=DevOps+Engineer%7C+AWS%7C+Terraform%7C+Kubernetes%7C+CI%2FCD%7C+Jenkins&background=FFFFFF00)
 
