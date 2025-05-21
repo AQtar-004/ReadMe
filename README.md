@@ -7,12 +7,13 @@
 ## 🛠 About Me  
 👉 *"I am a DevOps Engineer passionate about automating processes, improving deployments, and making systems more reliable. I work with tools like Terraform, Ansible, Docker, Kubernetes, and AWS to streamline workflows and optimize infrastructure. My goal is to help teams deliver software faster and more efficiently."*
 
-🔹 **Experienced in** Infrastructure as Code (IaC), containerization, and automation.  
-🔹 **Skilled in** AWS, Jenkins, Terraform, Ansible, Kubernetes.  
+🔹 **Entry-level Experienced in** Infrastructure as Code (IaC), containerization, Orchestration and automation.  
+🔹 **Skilled in** AWS, CI/CD(Jenkins, GitHub Actions, ArgoCD); Configuration and Management(Ansible, Terraform) Containerization and Orchestration(Docker, Kubernetes).  
 🔹 **Active contributor** to open-source DevOps projects.  
 
 ## 🌱 Currently Learning  
-- Kubernetes (CKA Certification)  
+- Kubernetes
+- Advanced CI/CD Techniques
 - Advanced Terraform Modules  
 - Cloud Security  
 
@@ -29,6 +30,7 @@
 
 ## 📂 GitHub Projects  
 🌟 **Featured Repositories:**  
+- [🔹 GitOps-CI-CD_Project](https://github.com/AQtar-004/GitOps-CI-CD_Project.git) – *(GitOps (CI/CD) Workflow with GitHub Actions for Building and Pushing Docker Images and ArgoCD for deploying a NodeJS application on Amazon Elastic Kubernetes Cluster.)*
 - [🔹 Terraform AWS Infrastructure](https://github.com/AQtar-004/Beginner-Terraform-Managed-Infrastructure-AWS-EC2.git) – *(Automated AWS setup using Terraform)*  
 - [🔹 Multi-Stage Docker Build](https://github.com/AQtar-004/Multi-stage-Docker-build.git) – *(Multi-Stage Docker Build integration for seamless deployment)*  
 - [🔹 AWS 3-tier Project Portfolio](https://github.com/AQtar-004/AWS_3-tier-Project_Portfolio.git) – *(Automating configuration & Management using Terraform)*  
