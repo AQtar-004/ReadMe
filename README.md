@@ -39,6 +39,13 @@
 
 🚀 **Explore more in my** [GitHub Repositories](https://github.com/AQtar-004).  
 
+## 🧾 Resume Builder
+
+Need a quick and professional resume?
+
+👉 [Click here to create your resume](https://www.resume.io/) using Resume.io — fast, free, and customizable!
+
+
 ## 📊 GitHub Stats  
 <p align="center" style="background-color:white; padding:10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=AQtar-004&show_icons=true&theme=white" height="160px" />
