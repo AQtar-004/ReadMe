@@ -45,6 +45,9 @@ Need a quick and professional resume?
 
 👉 [Click here to create your resume](https://www.resume.io/) using Resume.io — fast, free, and customizable!
 
+[📄 View My Resume](./resume.pdf)
+
+
 
 ## 📊 GitHub Stats  
 <p align="center" style="background-color:white; padding:10px;">
