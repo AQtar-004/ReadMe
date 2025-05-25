@@ -17,7 +17,16 @@
 - Kubernetes
 - Advanced CI/CD Techniques
 - Advanced Terraform Modules  
-- Cloud Security  
+- Cloud Security
+
+## 📂 GitHub Projects  
+🌟 **Featured Repositories:**  
+- [🔹 GitOps-CI-CD_Project](https://github.com/AQtar-004/GitOps-CI-CD_Project.git) – *(GitOps (CI/CD) Workflow with GitHub Actions for Building and Pushing Docker Images and ArgoCD for deploying a NodeJS application on Amazon Elastic Kubernetes Cluster.)*
+- [🔹 Terraform AWS Infrastructure](https://github.com/AQtar-004/Beginner-Terraform-Managed-Infrastructure-AWS-EC2.git) – *(Automated AWS setup using Terraform)*  
+- [🔹 Multi-Stage Docker Build](https://github.com/AQtar-004/Multi-stage-Docker-build.git) – *(Multi-Stage Docker Build integration for seamless deployment)*  
+- [🔹 AWS 3-tier Project Portfolio](https://github.com/AQtar-004/AWS_3-tier-Project_Portfolio.git) – *(Automating configuration & Management using Terraform)*  
+
+🚀 **Explore more in my** [GitHub Repositories](https://github.com/AQtar-004).  
 
 ## 🛠️ Technologies & Tools  
 <p align="left" style="background-color:white; padding:10px;">
@@ -30,22 +39,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=black" />
 </p>
 
-## 📂 GitHub Projects  
-🌟 **Featured Repositories:**  
-- [🔹 GitOps-CI-CD_Project](https://github.com/AQtar-004/GitOps-CI-CD_Project.git) – *(GitOps (CI/CD) Workflow with GitHub Actions for Building and Pushing Docker Images and ArgoCD for deploying a NodeJS application on Amazon Elastic Kubernetes Cluster.)*
-- [🔹 Terraform AWS Infrastructure](https://github.com/AQtar-004/Beginner-Terraform-Managed-Infrastructure-AWS-EC2.git) – *(Automated AWS setup using Terraform)*  
-- [🔹 Multi-Stage Docker Build](https://github.com/AQtar-004/Multi-stage-Docker-build.git) – *(Multi-Stage Docker Build integration for seamless deployment)*  
-- [🔹 AWS 3-tier Project Portfolio](https://github.com/AQtar-004/AWS_3-tier-Project_Portfolio.git) – *(Automating configuration & Management using Terraform)*  
-
-🚀 **Explore more in my** [GitHub Repositories](https://github.com/AQtar-004).  
-
-## 🧾 Resume Builder
-
-Need a quick and professional resume?
-
-👉 [Click here to create your resume](https://www.resume.io/) using Resume.io — fast, free, and customizable!
-
-[📄 View My Resume](./resume.pdf)
+[📄 View My Resume](./Mohammad_Aktar_Resume.pdf)
 
 
 
