@@ -1,16 +1,6 @@
 # 👋 Hi, I'm Mohammad Aktar!  
 
 
-<!-- Clickable Image for DevOps Typing SVG -->
-<a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E3A59&width=1000&lines=DevOps+Engineer|AWS|Terraform|Kubernetes|CI/CD|Jenkins&background=FFFFFF00" target="_blank">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E3A59&width=1000&lines=DevOps+Engineer|AWS|Terraform|Kubernetes|CI/CD|Jenkins&background=FFFFFF00" alt="DevOps Typing SVG" />
-</a>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E3A59&width=1000&lines=DevOps+Engineer%7C+AWS%7C+Terraform%7C+Kubernetes%7C+CI%2FCD%7C+Jenkins&background=FFFFFF00)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E3A59&width=1000&lines=Esports,+Historian-Enthusiast&background=FFFFFF00)
-
-
 
 ## 🛠 About Me  
 👉 *"I am a DevOps Engineer passionate about automating processes, improving deployments, and making systems more reliable. I work with tools like Terraform, Ansible, Docker, Kubernetes, and AWS to streamline workflows and optimize infrastructure. My goal is to help teams deliver software faster and more efficiently."*
